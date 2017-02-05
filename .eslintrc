@@ -84,10 +84,6 @@
     "yoda": 0
   },
   "globals": {
-      "SEST": true,
-      "Modernizr": true,
-      "ga": true,
-      "$": true,
       "mocha": true,
       "sinon": true,
       "describe": true,

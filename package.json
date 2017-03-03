@@ -19,5 +19,9 @@
     "style-loader": "^0.13.1",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.3.0"
+  },
+  "dependencies": {
+    "window-size": "^0.3.0",
+    "yahoo-finance": "^0.2.16"
   }
 }

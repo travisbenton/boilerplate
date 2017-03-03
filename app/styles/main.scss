@@ -1,5 +1,9 @@
-$test: red;
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
 body {
-	background: $test;
+  font-family: 'Roboto Mono';
+}
+
+pre {
+  margin: 0;
 }
